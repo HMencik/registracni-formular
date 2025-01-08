@@ -8,3 +8,21 @@
     font-size: 16px;
     
   }
+  .txt1 {
+    background-color: #0415aa;
+    color: red;
+    font-size: 16px;
+    
+  }
+  .txt2 {
+    background-color: #04aa44;
+    color: rgb(255, 230, 0);
+    font-size: 20px;
+    
+  }
+  .txtsecrit {
+    background-color: #f0ff0f;
+    color: #ffffff;
+    font-size: 16px;
+    
+  }
